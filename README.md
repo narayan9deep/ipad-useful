@@ -1,17 +1,13 @@
 
 # iPad Useful
 
-Curated selection of productivity-enhancing applications for the iPad. Each of these applications has been tested by me on [iPad 9th generation](https://www.apple.com/ipad-10.2/).
-
-```
-Be careful out on the internet.
-```
+Curated selection of productivity-enhancing applications for the iPad. Each of these applications has been tested by me on the base iPad.
 
 Please note that I am not responsible for any potential damage or issues that may arise with your iPad or any other device.
 
 ## File synchronization
 
-- iTunes: Download iTunes for Windows or Mac from [this](https://support.apple.com/downloads/itunes) link.
+- iTunes: Download iTunes for Windows or Mac from [this](https://support.apple.com/downloads/itunes) link. Offers single app-based file sync
 
 ## Note Taking
 
@@ -31,7 +27,9 @@ Please note that I am not responsible for any potential damage or issues that ma
 
  Windows:
 
- - Splashtop Wired XDisplay: To use your iPad as a second display for Windows, you will need to install the Splashtop Wired XDisplay agent for both Windows ([link](https://www.splashtop.com/wiredxdisplay)) and your iPad ([link](https://apps.apple.com/app/id1029826353))
+ - <b>Splashtop Wired XDisplay</b>: To use your iPad as a second display for Windows, you will need to install the Splashtop Wired XDisplay agent for both Windows ([link](https://www.splashtop.com/wiredxdisplay)) and your iPad ([link](https://apps.apple.com/app/id1029826353))
+ 
+<img src = "windows dual disp.jpg" width=300>
 
  ## Video Player
- - [VLC media player](https://apps.apple.com/us/app/vlc-media-player/id650377962): Powerful, free and open source cross-platform multimedia player. Easy to sunc video files from your computer directly into VLC using iTunes for Windows/Mac
+ - [VLC media player](https://apps.apple.com/us/app/vlc-media-player/id650377962): Powerful, free and open source multimedia player. Easy to sync video files from your computer directly into VLC using iTunes for Windows/Mac. Can store music and videos in various formats (.mp3, .mp4, .mkv, .3gp, .wav etc).
